@@ -23,7 +23,7 @@ img {
     width: 350px;
     border-radius:15px;
 }
-.span1 {
+h1 {
     color: hsl(218, 44%, 22%);
     font-size: 25px;
     font-weight: bold;
@@ -31,7 +31,7 @@ img {
     display: block;
     margin:20px 30px 20px 30px;
 }
-.span2{
+p{
     color:hsl(220, 15%, 55%);
     font-size: 18px;
     text-align: center;
