@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 
 ###
-- Website - (https://matiasmananian.github.io/qr-code-component-main/
+- Website - https://matiasmananian.github.io/qr-code-component-main/
 
 ## Author
 
