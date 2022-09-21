@@ -11,6 +11,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 
+###
+- Website - (https://matiasmananian.github.io/qr-code-component-main/)
+
 ## Author
 
 - Website - [Matias Mananian] (https://www.matiasmananian.com.ar)
