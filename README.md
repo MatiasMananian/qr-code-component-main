@@ -13,5 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Matias Mananian](https://www.matiasmananian.com.ar
-- Twitter - [@elmatu2012](https://www.twitter.com/elmatu2012)
+- Website - [Matias Mananian] (https://www.matiasmananian.com.ar)
+- Linkedin - [Matias Mananian] (https://www.linkedin.com/in/matias-mananian-68740515/)
+- Twitter - [@elmatu2012] (https://www.twitter.com/elmatu2012)
